@@ -12,7 +12,7 @@ Studio **Computer Science (Enterprise Applications)** all'UNICAL. Scrivo codice 
 * **Database:** MySQL
 
 **Progetti in Evidenza:**
-* 🚗 **[gestionale-ncc-locridea ]:** Gestionale per NCC in produzione. [ncc.locridea.it].
+* 🚗 **[gestionale-ncc-locridea ]:** Gestionale per NCC in produzione.
 * 🌐 **[webapp-immobiliarende]:** Web application full-stack sviluppata interamente da zero (Solo project).
 * 🤖 **BuroBot:** Il mio assistente burocratico per sopravvivere ai documenti. Progetto per l'AI Week di Develhope.
 
