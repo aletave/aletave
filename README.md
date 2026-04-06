@@ -7,9 +7,9 @@ Studio **Computer Science (Enterprise Applications)** all'UNICAL..
 * 💻 **Full-Stack / Enterprise:** Progetto e sviluppo web app end-to-end, gestendo sia l'architettura backend che l'interfaccia frontend.
 
 **Il mio Tech Stack:**
-* **Frontend:** TypeScript, React, Angular
-* **Backend:** Java, Node.js, Python, C++
-* **Database:** MySQL
+* ⚙️ **Backend & Architettura:** Java (Spring Boot, Maven, JPA/Hibernate), Node.js (Express), Python, C++
+* 🖥️ **Frontend:** JavaScript/TypeScript, React, Angular, HTML5/CSS3
+* 🗄️ **Database & Tooling:** MySQL, Docker, Git, Postman
 
 **Progetti in Evidenza:**
 * 🚗 **gestionale-ncc-locridea:** Gestionale per NCC in produzione.
