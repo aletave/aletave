@@ -13,6 +13,6 @@ Studio **Computer Science (Enterprise Applications)** all'UNICAL..
 
 **Progetti in Evidenza:**
 * 🚗 **gestionale-ncc-locridea:** Gestionale per NCC in produzione.
-* 🌐 **webapp-immobiliarende:** Web application full-stack sviluppata interamente da zero (Solo project).
+* 🏠 **webapp-immobiliarende:** Web application full-stack sviluppata interamente da zero (Solo project).
 * 🤖 **BuroBot:** Il mio assistente burocratico per sopravvivere ai documenti. Progetto per l'AI Week di Develhope.
 
