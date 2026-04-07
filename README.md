@@ -1,4 +1,4 @@
-### Ehi, sono Alessandro 👋
+### Sono Alessandro 👋
 
 Studio **Computer Science (Enterprise Applications)** all'UNICAL.
 
