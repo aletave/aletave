@@ -1,23 +1,19 @@
 # Ciao, sono Alessandro 👋
-**Computer Science Student @ UNICAL | Full Stack & Mobile Developer**
 
-In breve:
-🚀 **Shipping Real Software:** Non mi fermo alla teoria. Gestisco l'intero ciclo di vita del software, dall'analisi dei requisiti al deploy in produzione per clienti B2B reali.
-📱 **Ecosistemi Completi:** Progetto architetture end-to-end pulite (MVVM, Clean Arch) spaziando dallo sviluppo web moderno (Next.js/React) allo sviluppo nativo Android (Kotlin).
-
-### 🛠 Tech Stack Attuale
-- **📱 Mobile:** Kotlin, Jetpack Compose, architettura MVVM
-- **💻 Frontend Web:** React 19, Next.js 16, TypeScript, Tailwind CSS
-- **⚙️ Backend & Architettura:** Supabase (PostgreSQL), Keycloak, Server Actions, API RESTful, Pattern GoF
-- **🗄️ Tooling & DevOps:** Docker, Git, Gradle
+### 🛠 Tech Stack
+- **📱 Mobile:** Kotlin, Jetpack Compose[span_3](start_span)[span_3](end_span)
+- **💻 Web:** Next.js 16, React, TypeScript, Tailwind CSS[span_4](start_span)[span_4](end_span)
+- **⚙️ Backend & DB:** Supabase, PostgreSQL, Keycloak[span_5](start_span)[span_5](end_span)
+- **📐 Architettura:** MVVM, Clean Architecture, REST API, Pattern GoF[span_6](start_span)[span_6](end_span)
 
 ### 🚀 Progetti in Evidenza
 
-📱 **TripFlow-Android**
-App Android multi-modulo (Core + Features) sviluppata in team. Ho l'ownership completa sul modulo `feature-auth`, dove ho gestito flussi di login/registrazione sicuri integrando Keycloak (OAuth2). UI interamente sviluppata in Kotlin con Jetpack Compose, mantenendo logiche pulite tramite pattern MVVM.
+📱 **TripFlow-Android** | *Progetto Universitario (Enterprise Applications)*
+App Android multi-modulo sviluppata in team per l'università[span_7](start_span)[span_7](end_span). Ho avuto l'ownership del modulo `feature-auth`: ho integrato Keycloak (OAuth2) per gestire i flussi di login/registrazione e sviluppato la UI nativa in Kotlin con Jetpack Compose, seguendo il pattern MVVM[span_8](start_span)[span_8](end_span).
 
-🚗 **Locridea Transfer (B2B/B2C)** 
-Ecosistema gestionale avanzato, attualmente in produzione per un'azienda NCC (ncc.locridea.it). Sviluppato da zero utilizzando Next.js 16 (Server Actions) e Supabase. Integra un wizard di prenotazione (Google Maps API), sync con Google Calendar e notifiche WhatsApp. Architettura progettata a livelli applicando pattern Factory, Repository e Strategy.
+🚗 **Locridea Transfer (B2B)** | *In Produzione*
+Gestionale web completo sviluppato da zero per un'azienda NCC (ncc.locridea.it)[span_9](start_span)[span_9](end_span). 
+Stack: Next.js 16 (Server Actions) e Supabase (PostgreSQL)[span_10](start_span)[span_10](end_span). Integra un wizard per le prenotazioni con Google Maps API, sincronizzazione con Google Calendar e notifiche WhatsApp[span_11](start_span)[span_11](end_span). 
 
-🤖 **BuroBot (AI Week Challenge)**
-Assistente conversazionale AI sviluppato con Next.js e TypeScript. Integra le API di Gemini per automatizzare l'analisi e la semplificazione di complessi documenti burocratici in PDF.
+🤖 **BuroBot** | *Hackathon Project*
+Assistente conversazionale sviluppato durante l'AI Week di Develhope[span_12](start_span)[span_12](end_span). Scritto in Next.js e TypeScript, utilizza le API di Gemini per analizzare e semplificare documenti PDF burocratici[span_13](start_span)[span_13](end_span).
