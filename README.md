@@ -1,19 +1,23 @@
-### Sono Alessandro 👋
+# Ciao, sono Alessandro 👋
+**Computer Science Student @ UNICAL | Full Stack & Mobile Developer**
 
-Studio **Computer Science (Enterprise Applications)** all'UNICAL.
+In breve:
+🚀 **Shipping Real Software:** Non mi fermo alla teoria. Gestisco l'intero ciclo di vita del software, dall'analisi dei requisiti al deploy in produzione per clienti B2B reali.
+📱 **Ecosistemi Completi:** Progetto architetture end-to-end pulite (MVVM, Clean Arch) spaziando dallo sviluppo web moderno (Next.js/React) allo sviluppo nativo Android (Kotlin).
 
-**In breve:**
-* 🚀 **Shipping Real Software:** Sviluppato e portato in produzione da zero un gestionale aziendale completo per un cliente B2B (servizio NCC).
-* 💻 **Full-Stack / Enterprise:** Progettazione e sviluppo web app end-to-end, gestendo sia l'architettura backend che l'interfaccia frontend.
+### 🛠 Tech Stack Attuale
+- **📱 Mobile:** Kotlin, Jetpack Compose, architettura MVVM
+- **💻 Frontend Web:** React 19, Next.js 16, TypeScript, Tailwind CSS
+- **⚙️ Backend & Architettura:** Supabase (PostgreSQL), Keycloak, Server Actions, API RESTful, Pattern GoF
+- **🗄️ Tooling & DevOps:** Docker, Git, Gradle
 
-**Tech Stack:**
-* ⚙️ **Backend & Architettura:** Java (Spring Boot, Maven, JPA/Hibernate), Node.js (Express), Python, C++
-* 🖥️ **Frontend:** JavaScript/TypeScript, React, Angular, HTML5/CSS3
-* 🗄️ **Database & Tooling:** MySQL, Docker, Git, Postman
+### 🚀 Progetti in Evidenza
 
-**Progetti in Evidenza:**
-* 🚗 **[gestionale-ncc-locridea](https://github.com/aletave/gestionale-ncc-locridea):** Gestionale B2B in produzione per azienda NCC.
-* 🏠 **[webapp-immobiliarende](https://github.com/aletave/webapp-immobiliarende):** Web application full-stack sviluppata interamente da zero per esame universitario (Solo project).
-* 🤖 **[BuroBot](https://github.com/aletave/BuroBot):** Il mio assistente burocratico per analizzare documenti. Sviluppato per l'AI Week di Develhope.
+📱 **TripFlow-Android**
+App Android multi-modulo (Core + Features) sviluppata in team. Ho l'ownership completa sul modulo `feature-auth`, dove ho gestito flussi di login/registrazione sicuri integrando Keycloak (OAuth2). UI interamente sviluppata in Kotlin con Jetpack Compose, mantenendo logiche pulite tramite pattern MVVM.
 
-<br>
+🚗 **Locridea Transfer (B2B/B2C)** 
+Ecosistema gestionale avanzato, attualmente in produzione per un'azienda NCC (ncc.locridea.it). Sviluppato da zero utilizzando Next.js 16 (Server Actions) e Supabase. Integra un wizard di prenotazione (Google Maps API), sync con Google Calendar e notifiche WhatsApp. Architettura progettata a livelli applicando pattern Factory, Repository e Strategy.
+
+🤖 **BuroBot (AI Week Challenge)**
+Assistente conversazionale AI sviluppato con Next.js e TypeScript. Integra le API di Gemini per automatizzare l'analisi e la semplificazione di complessi documenti burocratici in PDF.
